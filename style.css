@@ -1,0 +1,22 @@
+.cse{
+    color:blue;
+
+}
+
+.demo1{
+    color: red;
+    font-size: medium;
+    font: family 50px; 
+}
+
+.sample1{
+    color: rgb(60, 244, 14);
+}
+
+
+p{
+    
+    border: 5px solid black;
+    margin: 20px;
+    padding: 30px;
+}
